@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js HTTP servers: the lack of error handling when starting the server.  The `bug.js` file shows the flawed code. The `bugSolution.js` shows how to properly handle errors using event listeners.  This is crucial for robust server applications.
